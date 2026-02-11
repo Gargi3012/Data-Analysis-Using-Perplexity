@@ -14,19 +14,7 @@ End-to-end analytics project with data cleaning (SQL), KPI dashboard (Power BI/D
 
 ## 🖼️ Dashboard
 Interactive Power BI dashboard analyzing customer behavior and transaction trends.
-Includes:
 
-Monthly transaction amount & balance trends
-
-Total balance by customer
-
-Account type distribution
-
-Customer segmentation (Gender & Age Group)
-
-Credit vs Debit transaction analysis
-
-Inactive accounts trend
 ![Dashboard 1](https://github.com/Gargi3012/Data-Analysis-Using-Perplexity/blob/main/Dashboard_ss1.png)
 ![Dashboard 2](https://github.com/Gargi3012/Data-Analysis-Using-Perplexity/blob/main/Dashboard_ss2.png)
   
